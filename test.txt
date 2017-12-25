@@ -1,6 +1,4 @@
-test, add new text
+test, add new text, need to have a conflict
 happy to see you
 we are the best Java QA!
-
-
 
