@@ -1,6 +1,3 @@
-test, add new text changing 1st line
-rappy to see you
-we are the best Java QA!
-
-
+test, add new text, resolve a conflict
+happy to see you
 
