@@ -1,5 +1,5 @@
-test, add new text
-happy to see you
+test, add new text changing 1st line
+rappy to see you
 we are the best Java QA!
 
 
